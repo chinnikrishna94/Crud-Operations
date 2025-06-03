@@ -57,4 +57,6 @@ const del = async(req,res)=>{
     }
 }
 
+console.log("Contact controller loaded")
+
 module.exports = {create,getContacts,update,del}
