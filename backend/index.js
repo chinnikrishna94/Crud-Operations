@@ -44,3 +44,6 @@ app.listen(port,()=>{
 })
 
 app.use('/contact',router)
+
+
+console.log("fjdsbl")

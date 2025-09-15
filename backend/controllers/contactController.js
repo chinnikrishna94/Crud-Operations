@@ -58,5 +58,6 @@ const del = async(req,res)=>{
 }
 
 console.log("Contact controller loaded")
+console.log("Contact controller loaded for krishna branch testing")
 
 module.exports = {create,getContacts,update,del}
